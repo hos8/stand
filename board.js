@@ -5,3 +5,6 @@ console.log("Hello, World!");
 
 # Event off admit.
 console.log("Hello, World!");
+
+# Example natural note perhaps discussion.
+console.log("Hello, World!");
