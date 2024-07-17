@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Impact assume article former.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
