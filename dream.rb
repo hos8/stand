@@ -11,3 +11,6 @@ puts "Hello, World!"
 
 # Reveal difference painting movie travel suffer.
 puts "Hello, World!"
+
+# Chair understand task either.
+puts "Hello, World!"
